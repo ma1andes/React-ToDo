@@ -1,0 +1,13 @@
+.listgroup {
+    margin-top: 20px; 
+    width: 400px;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    top: 100px;
+    left: 49%;
+    transform: translateX(-50%);
+    border: 10px outset #0D6EFD;
+    margin-left: 17px;
+    padding: 10px;
+}
